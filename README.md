@@ -1,0 +1,2 @@
+# ThaparGpt
+This is ThaparGPT.
